@@ -153,3 +153,48 @@ main section{
 .skills{
     margin: 0px 120px;
 }
+/* forth-page resume */
+.resume-container{
+    display: flex;
+    gap: 24px;
+    max-width: 1140px;
+
+}
+/* resume section-title */
+.resume-column-title{
+    color: #474747;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px   ;
+}
+.experience-title{
+    font-weight: bold;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 0px;
+   
+}
+.experience-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+.experience-sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin: 50px;
+}
+.resume-section{
+    text-align: center;
+    margin-bottom: 90px;
+}
+.resume-experience-title{
+    margin-bottom: 0px;
+}
